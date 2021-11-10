@@ -1,4 +1,4 @@
-### Mẫu sdt chính chủ
+### The schema is valid
 ```json
 {
   "ok": true,
@@ -37,7 +37,7 @@
 ```
 
 
-### Mấu sdt k chính chủ
+### The schema is invalid
 ```json
 {
   "ok": true,
